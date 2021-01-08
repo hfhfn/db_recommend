@@ -130,3 +130,6 @@ dmypy.json
 
 # model file
 *.npy
+
+# pycharm file
+.idea/
