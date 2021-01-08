@@ -1,0 +1,8 @@
+movie_hot_sort	334323
+movie_hot_factor	334323
+movie_score_factor	334323
+movie_year_factor	334323
+movie_time	259587
+user_history_click	4274921
+user_history_top	111240
+user_history_play	1508049

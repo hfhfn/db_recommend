@@ -1,0 +1,16 @@
+movie_hot_sort	336335
+movie_hot_factor	336335
+movie_score_factor	336335
+movie_year_factor	336335
+movie_time	261497
+user_history_click	4338772
+user_history_top	112971
+user_history_play	1536477
+movie_hot_sort	336335
+movie_hot_factor	336335
+movie_score_factor	336335
+movie_year_factor	336335
+movie_time	261497
+user_history_click	4338772
+user_history_top	112971
+user_history_play	1536477

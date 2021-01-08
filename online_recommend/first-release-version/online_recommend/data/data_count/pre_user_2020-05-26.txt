@@ -1,0 +1,15 @@
+user_click_35	281079
+merge_click	16201966
+user_top_35	3471
+merge_top	211315
+user_play_35	1158249
+merge_play	37743649
+merge_action	54156891
+user_click_35	281079
+merge_click	16483045
+user_top_35	3471
+merge_top	214786
+user_play_35	1158249
+merge_play	38487881
+merge_action	55185673
+user_click_35	281079

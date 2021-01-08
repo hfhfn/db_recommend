@@ -1,0 +1,14 @@
+merge_action	7518187
+action_weight	246780
+action_weight_normal	246780
+user_similar_recall_1969	5500832
+user_similar_filter_same_recall_1969	5076925
+user_similar_filter_history_recall_1969	5043673
+user_similar_recall_1969_100	1546142
+merge_action	5834231
+action_weight	216063
+action_weight_normal	216063
+user_similar_recall_1969	4736948
+user_similar_filter_same_recall_1969	4378149
+user_similar_filter_history_recall_1969	4349419
+user_similar_recall_1969_100	1401967

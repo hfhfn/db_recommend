@@ -1,0 +1,7 @@
+user_click_34	182628
+merge_click	11190793
+user_top_34	2270
+merge_top	149879
+user_play_34	788618
+merge_play	24257393
+merge_action	35598026
