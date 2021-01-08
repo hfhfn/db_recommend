@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b58e9c7-fdd7-4936-9fdd-40cae1795151" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movie_portrait/pre_movie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="46" column="63" lean-forward="true" selection-start-line="46" selection-start-column="63" selection-end-line="46" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update_scheduler/update.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6775">
+              <caret line="271" column="37" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update_scheduler/update_tohive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1875">
+              <caret line="75" column="84" selection-start-line="75" selection-start-column="84" selection-end-line="75" selection-end-column="84" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>topK</find>
+      <find>fn.Row</find>
+      <find>cl</find>
+      <find>lateral</find>
+      <find>LATERAL</find>
+      <find>samplingRatio</find>
+      <find>third</find>
+      <find>t</find>
+      <find>lambda</find>
+      <find>explode</find>
+      <find>global</find>
+      <find>dict</find>
+      <find>mapPartitions</find>
+      <find>for row in partition</find>
+      <find>persist</find>
+      <find>click</find>
+      <find>clicked</find>
+      <find>collect_list</find>
+      <find>movieVector</find>
+      <find>createDataFrame</find>
+      <find>span</find>
+      <find>word_min_len</find>
+      <find>samplingR</find>
+      <find>sqlContext</find>
+      <find>toPandas</find>
+      <find>.select</find>
+      <find>duplicate</find>
+      <find>yesterday</find>
+      <find>pyspark.ml.recommendation</find>
+      <find>归一化</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\work\dangbei\movie_recommend</dir>
+      <dir>E:\work\dangbei\dbys_recommend</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/test_connect_mysql.py" />
+        <option value="$PROJECT_DIR$/update_scheduler/update_tohive.py" />
+        <option value="$PROJECT_DIR$/neighbourhood_CF/__init__.py" />
+        <option value="$PROJECT_DIR$/neighbourhood_CF/user_CF.py" />
+        <option value="$PROJECT_DIR$/neighbourhood_CF/eval_CF.py" />
+        <option value="$PROJECT_DIR$/test/test_LSH.py" />
+        <option value="$PROJECT_DIR$/update_scheduler/__init__.py" />
+        <option value="$PROJECT_DIR$/user_portrait/user_profile.py" />
+        <option value="$PROJECT_DIR$/utils/save_tohive.py" />
+        <option value="$PROJECT_DIR$/utils/filter_data.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/cal_textrank.py" />
+        <option value="$PROJECT_DIR$/utils/cut_words.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/cal_merge_weight.py" />
+        <option value="$PROJECT_DIR$/test/tmp.py" />
+        <option value="$PROJECT_DIR$/test/copy_ys_all.py" />
+        <option value="$PROJECT_DIR$/test/copy_yh_all.py" />
+        <option value="$PROJECT_DIR$/test/__init__.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/__init__.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/movie_profile.py" />
+        <option value="$PROJECT_DIR$/test/get_channel_item.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/movie_tohive.py" />
+        <option value="$PROJECT_DIR$/utils/word2vec.py" />
+        <option value="$PROJECT_DIR$/test/test_createDataFrame.py" />
+        <option value="$USER_HOME$/Desktop/ab_client.py" />
+        <option value="$PROJECT_DIR$/update_scheduler/main.py" />
+        <option value="$PROJECT_DIR$/movie_recall/cal_movie_sim.py" />
+        <option value="$PROJECT_DIR$/movie_recall/fiass_sim.py" />
+        <option value="$PROJECT_DIR$/update_scheduler/update_movie_recall.py" />
+        <option value="$PROJECT_DIR$/movie_recall/__init__.py" />
+        <option value="$PROJECT_DIR$/movie_recall/faiss_sim.py" />
+        <option value="$PROJECT_DIR$/movie_recall/movie_recall_tohive.py" />
+        <option value="$PROJECT_DIR$/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/utils/filter_recall.py" />
+        <option value="$PROJECT_DIR$/stat_factor/movie_stat.py" />
+        <option value="$PROJECT_DIR$/utils/default.py" />
+        <option value="$PROJECT_DIR$/stat_factor/__init__.py" />
+        <option value="$PROJECT_DIR$/stat_factor/factor_tohive.py" />
+        <option value="$PROJECT_DIR$/user_portrait/__init__.py" />
+        <option value="$PROJECT_DIR$/stat_factor/movie_type.py" />
+        <option value="$PROJECT_DIR$/user_portrait/pre_user.py" />
+        <option value="$USER_HOME$/Desktop/profile_client.py" />
+        <option value="$PROJECT_DIR$/test/test4.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/cal_tfidf.py" />
+        <option value="$PROJECT_DIR$/test/test3.py" />
+        <option value="$PROJECT_DIR$/test/tese.py" />
+        <option value="$PROJECT_DIR$/neighbourhood_CF/item_CF.py" />
+        <option value="$PROJECT_DIR$/utils/spark_app.py" />
+        <option value="$PROJECT_DIR$/movie_portrait/pre_movie.py" />
+        <option value="$PROJECT_DIR$/user_action_recall/similar_recall_ret.py" />
+        <option value="$PROJECT_DIR$/user_portrait/user_tohive.py" />
+        <option value="$PROJECT_DIR$/update_scheduler/update.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1400" />
+    <option name="height" value="915" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dbys_recommend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dbys_recommend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django-uwsgi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\dangbei\movie_recommend\utils" />
+      <recent name="E:\work\dangbei\movie_recommend\update_scheduler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\dangbei\movie_recommend\neighbourhood_CF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.item_CF">
+    <configuration name="item_CF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/neighbourhood_CF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neighbourhood_CF/item_CF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/user_portrait" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_portrait/pre_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\work\dangbei\dbys_recommend\test\test_sys.stdin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_tohive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recommend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/user_portrait" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_portrait/user_tohive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.item_CF" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.user_tohive" />
+        <item itemvalue="Python.pre_user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b58e9c7-fdd7-4936-9fdd-40cae1795151" name="Default Changelist" comment="" />
+      <created>1589762974387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589762974387</updated>
+      <workItem from="1589762975698" duration="189000" />
+      <workItem from="1589779367709" duration="7589000" />
+      <workItem from="1589863780396" duration="1483000" />
+      <workItem from="1589867715413" duration="4611000" />
+      <workItem from="1590028374606" duration="10829000" />
+      <workItem from="1590110786252" duration="7549000" />
+      <workItem from="1590269422852" duration="2261000" />
+      <workItem from="1590397956731" duration="19882000" />
+      <workItem from="1590629527731" duration="31548000" />
+      <workItem from="1590724463513" duration="25916000" />
+      <workItem from="1590801396589" duration="5841000" />
+      <workItem from="1590973821295" duration="35517000" />
+      <workItem from="1591019506750" duration="430000" />
+      <workItem from="1591062440301" duration="37999000" />
+      <workItem from="1591149599463" duration="30373000" />
+      <workItem from="1591248811108" duration="6536000" />
+      <workItem from="1591358769857" duration="604000" />
+      <workItem from="1591696686188" duration="3643000" />
+      <workItem from="1591754323006" duration="24871000" />
+      <workItem from="1591839050997" duration="12037000" />
+      <workItem from="1592185369211" duration="26367000" />
+      <workItem from="1592269950812" duration="24472000" />
+      <workItem from="1592356755938" duration="4841000" />
+      <workItem from="1592448578472" duration="31291000" />
+      <workItem from="1592528321220" duration="26594000" />
+      <workItem from="1592637929724" duration="1177000" />
+      <workItem from="1592639118787" duration="16765000" />
+      <workItem from="1592788048009" duration="28306000" />
+      <workItem from="1592876546468" duration="12259000" />
+      <workItem from="1592966813299" duration="25825000" />
+      <workItem from="1593259996934" duration="875000" />
+      <workItem from="1593309366415" duration="9107000" />
+      <workItem from="1593413417599" duration="15614000" />
+      <workItem from="1593497621681" duration="19840000" />
+      <workItem from="1593580609424" duration="4710000" />
+      <workItem from="1593667984281" duration="21005000" />
+      <workItem from="1593755108287" duration="1830000" />
+      <workItem from="1593999046243" duration="17052000" />
+      <workItem from="1594083902495" duration="27746000" />
+      <workItem from="1594174021501" duration="5640000" />
+      <workItem from="1594300245335" duration="3264000" />
+      <workItem from="1594304188160" duration="472000" />
+      <workItem from="1594360167899" duration="5307000" />
+      <workItem from="1594446194625" duration="4771000" />
+      <workItem from="1594630703944" duration="1682000" />
+      <workItem from="1594774781817" duration="7714000" />
+      <workItem from="1594954790327" duration="4512000" />
+      <workItem from="1595209226867" duration="8518000" />
+      <workItem from="1595296373932" duration="24627000" />
+      <workItem from="1595379293761" duration="37395000" />
+      <workItem from="1595467933111" duration="51753000" />
+      <workItem from="1595563097255" duration="32310000" />
+      <workItem from="1595638483553" duration="32694000" />
+      <workItem from="1595811991117" duration="19698000" />
+      <workItem from="1595898327887" duration="23866000" />
+      <workItem from="1595987640619" duration="21442000" />
+      <workItem from="1596070727173" duration="2418000" />
+      <workItem from="1596160091461" duration="6146000" />
+      <workItem from="1596431136524" duration="3380000" />
+      <workItem from="1596502745101" duration="29290000" />
+      <workItem from="1596595507742" duration="15987000" />
+      <workItem from="1596677177534" duration="5212000" />
+      <workItem from="1596761975030" duration="38243000" />
+      <workItem from="1596850353380" duration="34077000" />
+      <workItem from="1597021896182" duration="31368000" />
+      <workItem from="1597212795536" duration="5421000" />
+      <workItem from="1597308269547" duration="2403000" />
+      <workItem from="1597431733925" duration="120000" />
+      <workItem from="1597627935129" duration="11973000" />
+      <workItem from="1597713732332" duration="8930000" />
+      <workItem from="1597827254662" duration="4413000" />
+      <workItem from="1597888196542" duration="40000" />
+      <workItem from="1597888352575" duration="30929000" />
+      <workItem from="1597971517484" duration="19215000" />
+      <workItem from="1598000328962" duration="16507000" />
+      <workItem from="1598057397404" duration="22204000" />
+      <workItem from="1598246939778" duration="8631000" />
+      <workItem from="1598332116049" duration="10628000" />
+      <workItem from="1598406572802" duration="16900000" />
+      <workItem from="1598516806189" duration="6692000" />
+      <workItem from="1598575922244" duration="18745000" />
+      <workItem from="1598853046283" duration="8460000" />
+      <workItem from="1599010177365" duration="14921000" />
+      <workItem from="1599099908781" duration="15799000" />
+      <workItem from="1599124009463" duration="8832000" />
+      <workItem from="1599185807748" duration="9350000" />
+      <workItem from="1599271725504" duration="675000" />
+      <workItem from="1599274480683" duration="620000" />
+      <workItem from="1599555307493" duration="1094000" />
+      <workItem from="1599626114766" duration="1493000" />
+      <workItem from="1599705706063" duration="5345000" />
+      <workItem from="1599787255406" duration="4837000" />
+      <workItem from="1600048530979" duration="650000" />
+      <workItem from="1600050718887" duration="469000" />
+      <workItem from="1600051598653" duration="840000" />
+      <workItem from="1600052991920" duration="15791000" />
+      <workItem from="1600136289627" duration="17471000" />
+      <workItem from="1600217932558" duration="29575000" />
+      <workItem from="1600306793325" duration="12182000" />
+      <workItem from="1600412740879" duration="3360000" />
+      <workItem from="1600493128991" duration="1370000" />
+      <workItem from="1600653394686" duration="3836000" />
+      <workItem from="1600759281696" duration="2203000" />
+      <workItem from="1600838765108" duration="5890000" />
+      <workItem from="1600930664407" duration="2442000" />
+      <workItem from="1602551523213" duration="1110000" />
+      <workItem from="1602552719486" duration="8089000" />
+      <workItem from="1604055988078" duration="358000" />
+      <workItem from="1604473717737" duration="8934000" />
+      <workItem from="1604902771651" duration="25054000" />
+      <workItem from="1605063664091" duration="9032000" />
+      <workItem from="1605497000838" duration="1615000" />
+      <workItem from="1605600260289" duration="3899000" />
+      <workItem from="1606459957773" duration="6735000" />
+      <workItem from="1606540697473" duration="4050000" />
+      <workItem from="1606952199568" duration="707000" />
+      <workItem from="1606953087191" duration="837000" />
+      <workItem from="1606981332288" duration="597000" />
+      <workItem from="1607319961266" duration="1363000" />
+      <workItem from="1607395026383" duration="6613000" />
+      <workItem from="1607503839034" duration="174000" />
+      <workItem from="1608705986334" duration="39127000" />
+      <workItem from="1609119623974" duration="27271000" />
+      <workItem from="1610019935089" duration="49000" />
+      <workItem from="1610019994568" duration="1827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1535867000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49534884" visible="true" weight="0.14209116" />
+      <window_info id="Structure" order="1" sideWeight="0.5046512" side_tool="true" weight="0.17962466" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5542895" weight="0.23133236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3704246" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="File Transfer" order="9" sideWeight="0.55160856" visible="true" weight="0.21669106" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.4483914" side_tool="true" weight="0.25475842" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dbys_recommend$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1605601332443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$update.coverage" NAME="update Coverage Results" MODIFIED="1592985842578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/update_scheduler" />
+    <SUITE FILE_PATH="coverage/movie_recommend$tmp_test.coverage" NAME="tmp_test Coverage Results" MODIFIED="1592550189553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$user_tohive.coverage" NAME="user_tohive Coverage Results" MODIFIED="1600261021393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_portrait" />
+    <SUITE FILE_PATH="coverage/movie_recommend$movie_profile.coverage" NAME="movie_profile Coverage Results" MODIFIED="1589864005385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_protrait" />
+    <SUITE FILE_PATH="coverage/movie_recommend$t_test.coverage" NAME="t_test Coverage Results" MODIFIED="1592556690144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$filter_tohive.coverage" NAME="filter_tohive Coverage Results" MODIFIED="1592210647337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stat_factor" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$movie_tohive.coverage" NAME="movie_tohive Coverage Results" MODIFIED="1599102541154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_portrait" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$movie_recall_tohive.coverage" NAME="movie_recall_tohive Coverage Results" MODIFIED="1600162979640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_recall" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$copy_ys_all.coverage" NAME="copy_ys_all Coverage Results" MODIFIED="1598077147564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$cal_movie_sim.coverage" NAME="cal_movie_sim Coverage Results" MODIFIED="1600073305286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_recall" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$test_createDataFrame.coverage" NAME="test_createDataFrame Coverage Results" MODIFIED="1599196735215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$update_movie_recall.coverage" NAME="update_movie_recall Coverage Results" MODIFIED="1590990067555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/update_scheduler" />
+    <SUITE FILE_PATH="coverage/movie_recommend$als_recall_ret.coverage" NAME="als_recall_ret Coverage Results" MODIFIED="1594130053070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ALS_recall" />
+    <SUITE FILE_PATH="coverage/movie_recommend$test_createDataFrame.coverage" NAME="test_createDataFrame Coverage Results" MODIFIED="1595856331215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$pre_movie.coverage" NAME="pre_movie Coverage Results" MODIFIED="1597893421513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_portrait" />
+    <SUITE FILE_PATH="coverage/movie_recommend$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1591150299097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/update_scheduler" />
+    <SUITE FILE_PATH="coverage/movie_recommend$movie_num.coverage" NAME="movie_num Coverage Results" MODIFIED="1592206930630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stat_factor" />
+    <SUITE FILE_PATH="coverage/movie_recommend$get.coverage" NAME="get Coverage Results" MODIFIED="1594300572767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/movie_recommend$test_jinshan_oss.coverage" NAME="test_jinshan_oss Coverage Results" MODIFIED="1594371659092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$get_channel_item.coverage" NAME="get_channel_item Coverage Results" MODIFIED="1599033969277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$copy_ys_all__1_.coverage" NAME="copy_ys_all (1) Coverage Results" MODIFIED="1598081204745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$default.coverage" NAME="default Coverage Results" MODIFIED="1590111562182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$factor_tohive.coverage" NAME="factor_tohive Coverage Results" MODIFIED="1600251193836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stat_factor" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1598070049444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$update_tohive.coverage" NAME="update_tohive Coverage Results" MODIFIED="1592994341031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/update_scheduler" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$pre_user.coverage" NAME="pre_user Coverage Results" MODIFIED="1600253621503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/user_portrait" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$item_CF.coverage" NAME="item_CF Coverage Results" MODIFIED="1607411999325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neighbourhood_CF" />
+    <SUITE FILE_PATH="coverage/movie_recommend$main.coverage" NAME="main Coverage Results" MODIFIED="1590480971666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/movie_recommend$factor_tohive.coverage" NAME="factor_tohive Coverage Results" MODIFIED="1594110612391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stat_factor" />
+    <SUITE FILE_PATH="coverage/movie_recommend$test_LSH.coverage" NAME="test_LSH Coverage Results" MODIFIED="1597110631447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$movie_tohive.coverage" NAME="movie_tohive Coverage Results" MODIFIED="1590737054650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/movie_portrait" />
+    <SUITE FILE_PATH="coverage/movie_recommend$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1596873678652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$similar_recall_tohive.coverage" NAME="similar_recall_tohive Coverage Results" MODIFIED="1590507597195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action_similar_recall" />
+    <SUITE FILE_PATH="coverage/movie_recommend$eval_CF.coverage" NAME="eval_CF Coverage Results" MODIFIED="1596889885756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neighbourhood_CF" />
+    <SUITE FILE_PATH="coverage/movie_recommend$test_mysqldump.coverage" NAME="test_mysqldump Coverage Results" MODIFIED="1594455049368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/movie_recommend$item_CF.coverage" NAME="item_CF Coverage Results" MODIFIED="1596071759478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/neighbourhood_CF" />
+    <SUITE FILE_PATH="coverage/movie_recommend$dump_rds.coverage" NAME="dump_rds Coverage Results" MODIFIED="1594446369537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/movie_recommend$000.coverage" NAME="000 Coverage Results" MODIFIED="1594303516054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/dbys_recommend$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1604544361456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/movie_portrait/movie_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1706902547/1211489945/pyspark/ml/feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="274" column="11" lean-forward="true" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_vector_recall/user_vector_ret.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_vector_recall/vector_recall_ret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1706902547/1211489945/pyspark/sql/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1706902547/1211489945/faiss/swigfaiss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="5241" column="65" lean-forward="true" selection-start-line="5241" selection-start-column="65" selection-end-line="5241" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_portrait/cal_textrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_scheduler/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_recall/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_recall/cal_movie_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="103" lean-forward="true" selection-start-line="7" selection-start-column="103" selection-end-line="7" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_portrait/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_portrait/merge_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/profile_client.py" />
+    <entry file="file://$PROJECT_DIR$/test/test_sys.stdin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#827#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neighbourhood_CF/user_CF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_recall/movie_recall_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_recall/faiss_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_portrait/pre_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_portrait/movie_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3475">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_portrait/cal_tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tese.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="304" column="14" selection-start-line="304" selection-start-column="14" selection-end-line="304" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/20201125" />
+    <entry file="file://$PROJECT_DIR$/stat_factor/movie_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/filter_recall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/movie_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/movie_score.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/movie_num.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/save_tohive.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/action_stat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/movie_hot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALS_recall/als_recall_ret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3775">
+          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neighbourhood_CF/eval_CF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/spark_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="77" column="52" selection-start-line="77" selection-start-column="52" selection-end-line="77" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neighbourhood_CF/item_CF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="104" column="55" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_portrait/user_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="86" column="90" lean-forward="true" selection-start-line="86" selection-start-column="90" selection-end-line="86" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_portrait/user_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/user_history.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_factor/factor_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_scheduler/update_movie_recall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-957">
+          <caret line="259" column="8" selection-start-line="259" selection-start-column="8" selection-end-line="259" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_action_recall/similar_recall_ret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1532">
+          <caret line="21" column="79" lean-forward="true" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_action_recall/similar_recall_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/recommend_client.py" />
+    <entry file="file://$PROJECT_DIR$/movie_portrait/pre_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="46" column="63" lean-forward="true" selection-start-line="46" selection-start-column="63" selection-end-line="46" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_scheduler/update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6775">
+          <caret line="271" column="37" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_scheduler/update_tohive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="75" column="84" selection-start-line="75" selection-start-column="84" selection-end-line="75" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
